@@ -1,12 +1,12 @@
 {
-  "version": "helm-v0.1.3",
+  "version": "helm-v0.1.4",
   "description": "AI agent relay — monitor and control Codex sessions from your iPhone",
   "homepage": "https://github.com/easonwumac/Helm",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/easonwumac/Helm/releases/download/vhelm-v0.1.3/hostd-windows-x86_64.zip",
-      "hash": "346989981344fe7fefeb85b293a7b0806680b1f977fa3b50115d1e656441a24c"
+      "url": "https://github.com/easonwumac/Helm/releases/download/vhelm-v0.1.4/hostd-windows-x86_64.zip",
+      "hash": "29513ca3ed651c5f918c261846c1e61572f8f5737360c0d0e69fad4358ecd95a"
     }
   },
   "bin": "hostd.exe",
